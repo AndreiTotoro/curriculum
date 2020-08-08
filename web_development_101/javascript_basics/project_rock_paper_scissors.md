@@ -41,6 +41,7 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
   <summary> Show Student Solutions </summary>
 
 - Add your solution below this line!
+- [Andrei Totoro's Solution](https://github.com/AndreiTotoro/Rock-Paper-Scissors) - [View in Browser](https://andreitotoro.github.io/Rock-Paper-Scissors/)
 - [James Y's Solution](https://github.com/Yoannou/rock-paper-scissors) - [View in Browser](https://yoannou.github.io/rock-paper-scissors/) 
 - [lucasdonuts' Solution](https://github.com/lucasdonuts/RPS-Project) - [View in Browser](https://lucasdonuts.github.io/RPS-Project/)
 - [Brad DeFauw's solution](https://github.com/braddefauw/rps-project) - [View in Browser](https://braddefauw.github.io/rps-project/)
@@ -1855,5 +1856,4 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [LJ's Solution](https://github.com/lejones1785/rockPaperScissors)
 - [Marvin Keilbach's Solution](https://github.com/marvinkeilbach/rock-paper-scissors) - [View in Browser](https://marvinkeilbach.github.io/rock-paper-scissors/)
 - [dezvolt's Solution](https://github.com/dezvolt/RockPaperScissors) - [View in Browser](https://dezvolt.github.io/RockPaperScissors/)
-- [Andrei Totoro's Solution](https://github.com/AndreiTotoro/Rock-Paper-Scissors) 
 </details>
